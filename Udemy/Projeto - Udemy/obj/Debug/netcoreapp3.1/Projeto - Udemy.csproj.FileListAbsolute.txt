@@ -1,0 +1,37 @@
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\bin\Debug\netcoreapp3.1\Projeto - Udemy.deps.json
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\bin\Debug\netcoreapp3.1\Projeto - Udemy.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\bin\Debug\netcoreapp3.1\Projeto - Udemy.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\bin\Debug\netcoreapp3.1\Projeto - Udemy.dll
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\obj\Debug\netcoreapp3.1\Projeto - Udemy.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\obj\Debug\netcoreapp3.1\Projeto - Udemy.RazorAssemblyInfo.cache
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\obj\Debug\netcoreapp3.1\Projeto - Udemy.RazorAssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\obj\Debug\netcoreapp3.1\Projeto - Udemy.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\obj\Debug\netcoreapp3.1\Projeto - Udemy.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\obj\Debug\netcoreapp3.1\Projeto - Udemy.TagHelpers.input.cache
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\obj\Debug\netcoreapp3.1\Projeto - Udemy.TagHelpers.output.cache
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\obj\Debug\netcoreapp3.1\Projeto - Udemy.RazorCoreGenerate.cache
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\obj\Debug\netcoreapp3.1\Projeto - Udemy.RazorTargetAssemblyInfo.cache
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\obj\Debug\netcoreapp3.1\Projeto - Udemy.RazorTargetAssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\obj\Debug\netcoreapp3.1\staticwebassets\Projeto - Udemy.StaticWebAssets.Manifest.cache
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\obj\Debug\netcoreapp3.1\staticwebassets\Projeto - Udemy.StaticWebAssets.xml
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\obj\Debug\netcoreapp3.1\Projeto - Udemy.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\bin\Debug\netcoreapp3.1\Projeto - Udemy.exe
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\bin\Debug\netcoreapp3.1\Projeto - Udemy.pdb
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\bin\Debug\netcoreapp3.1\Projeto - Udemy.Views.dll
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\bin\Debug\netcoreapp3.1\Projeto - Udemy.Views.pdb
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\obj\Debug\netcoreapp3.1\Projeto - Udemy.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\obj\Debug\netcoreapp3.1\Projeto - Udemy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\obj\Debug\netcoreapp3.1\Projeto - Udemy.Views.pdb
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\obj\Debug\netcoreapp3.1\Projeto - Udemy.dll
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\obj\Debug\netcoreapp3.1\Projeto - Udemy.pdb
+C:\Users\lucas\OneDrive\Documentos\Projetos .Net Core\Projeto - Udemy\obj\Debug\netcoreapp3.1\Projeto - Udemy.csproj.CopyComplete
